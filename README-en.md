@@ -46,13 +46,13 @@ npm run dev
 # Screenshot
 
 ### Home page and classification
-<img src="./mdimg/wechatIMG11.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/WechatIMG11.png">
 
 ### Merchandise List Page
-<img src="./mdimg/wechatIMG13.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/WechatIMG13.png">
 
 ### Commodity Details Page
-<img src="./mdimg/wechatIMG14.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/WechatIMG14.png">
 
 ### Shopping cart page
-<img src="./mdimg/wechatIMG12.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/WechatIMG12.png">
