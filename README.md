@@ -51,10 +51,10 @@ npm run dev
 <img src="https://github.com/yn36/ttc/blob/master/mdimg/WechatIMG11.png">
 
 ### 商品列表页
-<img src="https://github.com/yn36/ttc/blob/master/mdimg/wechatIMG13.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/WechatIMG13.png">
 
 ### 商品详情页
-<img src="https://github.com/yn36/ttc/blob/master/mdimg/wechatIMG14.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/WechatIMG14.png">
 
 ### 购物车页
-<img src="https://github.com/yn36/ttc/blob/master/mdimg/wechatIMG12.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/WechatIMG12.png">
