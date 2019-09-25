@@ -1,0 +1,109 @@
+[
+    {
+        "aid": "103",
+        "title01": "三星（SAMSUNG）Q6A 55英寸QLED量子点 4K超高清 物联IoT 人工智能  网络液晶电视机 QA55Q6ARAJXXZ ",
+        "title02": "【品质好物选三星】下单立减400！评价晒单赠100元京东E卡！QLED强大量子点处理器！IoT物联+AI语音互动！",
+        "money": "5399.00",
+        "tmp":[
+            {
+                "kk":"电视",
+                "sur":"/list/l2"
+            },
+            {
+                "kk":"三星（SAMSUNG）电视机",
+                "sur":"/content/103"
+            }
+        ],
+        "img": [
+            {
+                "imgMin": "/static/images/xqy/103/img01.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/103/img02.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/103/img03.jpg"
+            }
+        ],
+        "selected": false,
+        "banben": [
+            {
+                "xzbb": "选择版本：",
+                "nr": [
+                    {
+                        "bt": "55英寸量子点 物联IOT 环境屏Q6A"
+                    },
+                    {
+                        "bt": "55英寸 全新设计 画质细节增强"
+                    },
+                    {
+                        "bt": "55英寸4K曲面 纤薄机身 居家优选"
+                    }
+                ]
+            }
+        ],
+        "num": 1,
+        "imgMax": "/static/images/xqy/103/img01.jpg",
+        "SPXQ": [
+            {
+                "li": "商品名称：三星QA55Q6ARAJXXZ"
+            },
+            {
+                "li": "商品编号：100004883122"
+            },
+            {
+                "li": "商品毛重：24.3kg"
+            },
+            {
+                "li": "商品产地：中国大陆"
+            },
+            {
+                "li": "观看距离：2.5m-3m（46-55英寸）"
+            },
+            {
+                "li": "用户优选：京品电视"
+            },
+            {
+                "li": "分辨率：4k超高清（3840×2160）"
+            },
+            {
+                "li": "电视类型：人工智能，4K超清，量子点"
+            },
+            {
+                "li": "能效等级：二级能效"
+            },
+            {
+                "li": "屏幕尺寸：55英寸"
+            },
+            {
+                "li": "选购指数：10.0-8.0"
+            }
+        ],
+        "spxqimg": [
+            {
+                "showimg": "/static/images/xqy/103/imgshow01.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/103/imgshow02.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/103/imgshow03.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/103/imgshow04.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/103/imgshow05.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/103/imgshow06.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/103/imgshow07.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/103/imgshow08.jpg"
+            }
+        ]
+    }
+]

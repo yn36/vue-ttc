@@ -1,0 +1,242 @@
+.c_nav {
+  border-top: 2px solid #e0e0e0;
+  margin-top: 16px;
+}
+
+.c_nav .item {
+  border-bottom: 1px solid #e0e0e0;
+  line-height: 58px;
+  clear: both;
+  background: #eee;
+  overflow: hidden;
+}
+.c_nav .item span {
+  font-weight: bold;
+  font-size: 16px;
+  color: #404145;
+  display: block;
+  width: 9%;
+  padding-left: 20px;
+  float: left;
+  font-size: 14px;
+}
+.c_nav .item p {
+  float: left;
+  width: 91%;
+  background: #fff;
+  padding-left: 20px;
+}
+.c_nav .item a {
+  color: #0094de;
+  margin-right: 23px;
+  display: block;
+  float: left;
+  font-size: 12px;
+  overflow: hidden;
+  line-height: 58px;
+}
+
+.c_nav .item a img {
+  position: relative;
+  top: 9px;
+}
+
+.c_nav .item p input {
+  float: left;
+  margin-top: 17px;
+}
+
+.c_nav .item p .txt {
+  border: 1px solid #ccc;
+  width: 45px;
+  height: 20px;
+  line-height: 20px;
+}
+
+.c_nav .item p span {
+  width: 10px;
+  padding: 0;
+}
+
+.c_nav .item p .sub {
+  width: 46px;
+  height: 21px;
+  background: url(/static/images/sub.jpg) no-repeat;
+  margin-left: 10px;
+  cursor: pointer;
+  border: none;
+}
+
+.order {
+  margin-top: 25px;
+  background: #f1f1f1;
+  border: 1px solid #e0e0e0;
+  padding: 12px 20px;
+  overflow: hidden;
+}
+
+.order a.cur {
+  background: #e3393c;
+  color: #fff;
+}
+
+.order a {
+  float: left;
+  border: 1px solid #cdcdcd;
+  margin-left: -1px;
+  background: #fff;
+  padding: 4px 10px;
+  font-size: 14px;
+}
+
+.order span {
+  float: right;
+  display: inline-block;
+}
+
+.order span font {
+  margin-top: 5px;
+  float: left;
+}
+
+.order span strong {
+  color: #403f44;
+  margin-right: 25px;
+}
+
+.order span strong b {
+  color: #ea3d1d;
+}
+
+.order span a {
+  font-family: "宋体";
+  float: right;
+}
+
+.pro_cont {
+  margin-top: 25px;
+  overflow: hidden;
+}
+.pro_cont .itemaa {
+  float: left;
+    padding: 5px;
+    border: 2px solid #d9d9d9;
+    width: 24%;
+    height: 245px;
+    margin: 5px;
+    margin-bottom: 23px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.pro_cont .item {
+  /* float: left; */
+  padding: 5px;
+  width: 100%;
+  height: 100%;
+}
+
+.pro_cont .item dl dt img {
+  width: 100%;
+  height: 100%;
+}
+
+.pro_cont .item dl dd {
+  margin-top: 5px;
+}
+
+.pro_cont .item dl dd img {
+  width: 27px;
+  height: 27px;
+  border: 1px solid #dedcdd;
+  padding: 1px;
+  margin-right: 5px;
+}
+
+.pro_cont .item dl dd .on {
+  border: 1px solid #e2393c;
+}
+
+.text-desc .p01 {
+  font-size: 28px;
+  /* margin-top: 15px; */
+  color: #ea1d22;
+  line-height: 28px
+}
+.text-desc .p01 font {
+  font-size: 14px;
+}
+.text-desc .p02 {
+  line-height: 22px;
+  margin-top: 10px;
+  position: relative;
+  font-family: "宋体";
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  font-size: 12px;
+}
+.text-desc .p02 a {
+  color: #5a5a5a;
+}
+.text-desc .p03 {
+  border: 1px #dadada solid;
+  font-size: 12px;
+  overflow: hidden;
+}
+.text-desc .p03 .sp01 {
+  border-right: 1px solid #dadada;
+}
+.text-desc .p03 span b {
+  color: #ea8c1a;
+}
+.text-desc .p03 span {
+  display: block;
+  width: 50%;
+  height: 32px;
+  line-height: 32px;
+  padding-left: 10px;
+  float: left;
+}
+.text-desc .p03 span strong {
+  color: #0193de;
+}
+
+.port-6.effect-3 img {
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+}
+.port-6.effect-3:hover img {
+  position: relative;
+  z-index: 9;
+
+  transform: scale(0.3) translateY(-110%);
+  -webkit-transform: scale(0.3) translateY(-110%);
+  -moz-transform: scale(0.3) translateY(-110%);
+}
+.port-6.effect-3 .text-desc {
+  opacity: 0;
+  /* padding: 85px 20px 10px; */
+
+  transform: translateY(100%);
+  -webkit-transform: translateY(100%);
+  -moz-transform: translateY(100%);
+
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  overflow: hidden;
+}
+.port-6.effect-3:hover .text-desc {
+  opacity: 1;
+
+  transform: translateY(-100%);
+  -webkit-transform: translateY(-100%);
+  -moz-transform: translateY(-100%);
+}

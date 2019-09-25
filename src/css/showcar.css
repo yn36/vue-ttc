@@ -1,0 +1,163 @@
+* {
+  -webkit-user-select: none;
+}
+.shopcar {
+  border: 1px solid #e0e0e0;
+  margin-top: 20px;
+  padding: 30px 37px;
+  overflow: hidden;
+}
+.shopcar .shop_lc {
+  width: 100%;
+  height: 34px;
+  background: url(/static/images/ico22.jpg) no-repeat;
+  line-height: 34px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 14px;
+}
+.shopcar .shop_lc span {
+  display: inline-block;
+  color: #404145;
+}
+.shopcar .shop_lc .sp01 {
+  width: 380px;
+  padding-left: 40px;
+  color: #fff;
+}
+.shopcar .shop_lc .sp02 {
+  width: 380px;
+  padding-left: 16px;
+}
+.shopcar dl {
+  margin-top: 20px;
+}
+.shopcar dt {
+  border-bottom: 1px solid #e0e0e0;
+  margin-top: 10px;
+}
+.shopcar dt span {
+  font-size: 20px;
+  color: #404145;
+  border-bottom: 3px solid #ea3c1f;
+  display: inline-block;
+  line-height: 60px;
+}
+.shopcar dd {
+  border: 1px solid #e0e0e0;
+  margin-top: 20px;
+  border-top: 2px solid #e0e0e0;
+  overflow: hidden;
+}
+.shopcar dd .tr_t td {
+  background: #f7f7f7;
+  line-height: 35px;
+  border-bottom: 1px solid #e0e0e0;
+  text-align: center;
+  font-weight: bold;
+}
+.trcdd{
+  width: 11%;
+}
+
+.shopcar dd .tr_c td {
+  background: #fff;
+  text-align: center;
+  padding: 15px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.shopcar dd .tr_c td td {
+  border: none;
+}
+.shopcar dd .tr_c img {
+  border: 1px solid #e0e0e0;
+  width: 77px;
+  height: 77px;
+  margin: 0 10px;
+}
+.shopcar dd .tr_c td td {
+  border: none;
+}
+.shopcar dd .tr_c .title {
+  color: #404145;
+  text-align: left;
+  display: inline-block;
+  line-height: 24px;
+  margin-left: 14px;
+}
+.shopcar dd .tr_c .price {
+  color: #ea1d24;
+  font-size: 15px;
+}
+.shopcar dd .tr_c .jian {
+  border: 1px solid #e0e0e0;
+  height: 30px;
+  line-height: 30px;
+  display: inline-block;
+  float: left;
+  width: 14px;
+  cursor: pointer;
+}
+
+.shopcar dd .tr_c input {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  float: left;
+  text-align: center;
+}
+.shopcar dd .tr_c input.c_input {
+  width: 25px;
+  height: 25px;
+  line-height: 30px;
+  float: left;
+  text-align: center;
+  margin-left: 10px;
+}
+.shopcar dd .tr_c .jia {
+  border: 1px solid #e0e0e0;
+  height: 30px;
+  line-height: 30px;
+  display: inline-block;
+  float: left;
+  width: 14px;
+  cursor: pointer;
+}
+
+.shopcar dd .tr_d {
+  background: #f7f7f7;
+  line-height: 45px;
+}
+.shopcar dd .tr_d .del {
+  background: url(/static/images/ico24.jpg) no-repeat left center;
+  padding-left: 15px;
+  display: inline-block;
+  margin-left: 18px;
+}
+
+.shopcar dd .tr_d strong {
+  color: #0094df;
+}
+.shopcar dd .tr_d .all_price font {
+  font-size: 20px;
+  color: #ea1d24;
+}
+.shopcar .go_tb {
+  margin-top: 50px;
+}
+.shopcar .go_tb .go_buy {
+  border: 1px solid #e0e0e0;
+  padding: 7px 20px;
+  color: #404145;
+  font-weight: bold;
+  background: #f5f5f5;
+  border-radius: 3px;
+}
+.shopcar .go_tb .code {
+  padding: 12px 55px;
+  color: #fff;
+  font-weight: bold;
+  background: #e83426;
+  font-size: 16px;
+}

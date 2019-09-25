@@ -1,0 +1,134 @@
+.nr_mfzc {
+  height: 550px;
+  /* background: red; */
+  margin-top: 69px;
+  border-top: 3px solid red;
+  border-bottom: 1px solid #ececec;
+  border-left: 1px solid #ececec;
+  border-right: 1px solid #ececec;
+  position: relative;
+  margin-bottom: 60px;
+}
+
+.mfzc_lr {
+  width: 630px;
+  height: 386px;
+  /* background: #000000; */
+  position: absolute;
+  top: 55px;
+  left: 77px;
+  border-right: 1px solid #ececec;
+}
+
+.mfzc_lr h1 {
+  font-family: "微软雅黑";
+}
+
+.sjzc {
+  text-align: right;
+  width: 80%;
+  margin-top: 35px;
+  position: relative;
+}
+
+.sjzc input {
+  line-height: 41px;
+  width: 70%;
+  background: #fbfbfb;
+  border: 1px solid #ececec;
+  padding-left: 10px;
+  outline: none;
+}
+
+.sjzc p {
+  font-size: 18px;
+  font-family: "微软雅黑";
+  display: inline-block;
+}
+
+.sjzc p i {
+  display: inline-block;
+  margin-right: 4px;
+  color: red;
+}
+
+.queryd {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.queryd span a {
+  color: #0000ff;
+}
+
+.rljdl {
+  height: 120px;
+  width: 300px;
+  /* background: red; */
+  text-align: center;
+  float: right;
+  margin-top: 198px;
+  margin-right: 78px;
+  border: 1px solid #ececec;
+}
+
+.rljdl p {
+  font-size: 18px;
+  font-family: "微软雅黑";
+  margin-top: 44px;
+}
+
+.rljdl p a {
+  font-size: 18px;
+  font-family: "微软雅黑";
+  color: red;
+}
+
+.wrong {
+  background: url(/static/images/error.png) no-repeat left center;
+  color: red;
+  width: 80px;
+  height: 20px;
+  position: absolute;
+  top: 46px;
+  left: 146px;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.right {
+  background: url(/static/images/right.png) no-repeat left center;
+  color: #449d44;
+  width: 70px;
+  height: 20px;
+  position: absolute;
+  top: 46px;
+  left: 146px;
+  font-size: 13px;
+  line-height: 20px;
+}
+#ljzc {
+  width: 251px;
+  height: 50px;
+  background: red;
+  text-align: center;
+  border-radius: 7px;
+  margin: 0 auto;
+  margin-top: 23px;
+  display: block;
+  border: none;
+  color: #fff;
+  font-size: 30px;
+  outline: none;
+  cursor: pointer;
+}
+
+.rOneHP {
+  width: 100%;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+  margin-top: 100px;
+}
+
+#ljzc[disabled]{
+}

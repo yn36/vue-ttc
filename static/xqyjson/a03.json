@@ -1,0 +1,119 @@
+[
+    {
+        "aid": "a03",
+        "title01": "科大讯飞学习机X1 Pro 小学和初高中家教机 10.1英寸2.5D高清润眼屏 8重护眼 AI个性化精准学习 学生平板电脑",
+        "title02": "【买送好礼】买就送原装保护膜+保护套（随货发出）",
+        "money": "3399.00",
+        "tmp":[
+            {
+                "kk":"平板电脑",
+                "sur":"/content/a03"
+            }
+        ],
+        "img": [
+            {
+                "imgMin": "/static/images/img/102imgmin01.jpg"
+            },
+            {
+                "imgMin": "/static/images/img/102imgmin02.jpg"
+            },
+            {
+                "imgMin": "/static/images/img/102imgmin03.jpg"
+            },
+            {
+                "imgMin": "/static/images/img/102imgmin04.jpg"
+            }
+        ],
+        "selected": false,
+        "banben": [
+            {
+                "xzbb": "套　　装：",
+                "nr": [
+                    {
+                        "bt": "套装1"
+                    },
+                    {
+                        "bt": "套装2"
+                    }
+                ]
+            },
+            {
+                "xzbb": "增值保障：",
+                "nr": [
+                    {
+                        "bt": "5年全保修 ￥299"
+                    },
+                    {
+                        "bt": "3年免费换新 ￥399"
+                    }
+                ]
+            }
+        ],
+        "num": 1,
+        "imgMax": "/static/images/img/102img.jpg",
+        "SPXQ": [
+            {
+                "li": "商品名称：科大讯飞X1 Pro"
+            },
+            {
+                "li": "商品编号：100004540150"
+            },
+            {
+                "li": "商品毛重：0.94kg"
+            },
+            {
+                "li": "商品产地：中国大陆"
+            },
+            {
+                "li": "附加功能：支持播放MP4视频，支持扩展存储卡，支持播放MP3音频，支持TXT、PDF格式电子书阅读，拍照学习"
+            },
+            {
+                "li": "屏幕尺寸：10.1英寸"
+            },
+            {
+                "li": "数据接口：Type-C"
+            },
+            {
+                "li": "屏幕尺寸：10.1英寸"
+            },
+            {
+                "li": "内核：八核"
+            },
+            {
+                "li": "适用人群：小学，初中，高中"
+            }
+        ],
+        "spxqimg": [
+            {
+                "showimg": "/static/images/img/102imgshow01.jpg"
+            },
+            {
+                "showimg": "/static/images/img/102imgshow02.jpg"
+            },
+            {
+                "showimg": "/static/images/img/102imgshow03.jpg"
+            },
+            {
+                "showimg": "/static/images/img/102imgshow04.jpg"
+            },
+            {
+                "showimg": "/static/images/img/102imgshow05.jpg"
+            },
+            {
+                "showimg": "/static/images/img/102imgshow06.jpg"
+            },
+            {
+                "showimg": "/static/images/img/102imgshow07.jpg"
+            },
+            {
+                "showimg": "/static/images/img/102imgshow08.jpg"
+            },
+            {
+                "showimg": "/static/images/img/102imgshow09.jpg"
+            },
+            {
+                "showimg": "/static/images/img/102imgshow10.jpg"
+            }
+        ]
+    }
+]

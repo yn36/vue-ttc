@@ -1,0 +1,257 @@
+[
+    {
+        "map": [
+            {
+                "m1": "首页",
+                "to":"/home"
+            },
+            {
+                "m1": "家庭电器",
+                "to":"/list"
+            }
+        ],
+        "title": [
+            {
+                "span": "品牌：",
+                "spana": [
+                    {
+                        "aimg":"<img src='/static/images/listimg/2pp01.jpg'>"
+                    },
+                    {
+                        "aimg": "<img src='/static/images/listimg/2pp02.jpg'>"
+                    },
+                    {
+                        "aimg": "<img src='/static/images/listimg/2pp03.jpg'>"
+                    },
+                    {
+                        "aimg": "<img src='/static/images/listimg/2pp04.jpg'>"
+                    },
+                    {
+                        "aimg": "<img src='/static/images/listimg/2pp05.jpg'>"
+                    },
+                    {
+                        "aimg": "<img src='/static/images/listimg/2pp06.jpg'>"
+                    },
+                    {
+                        "aimg": "<img src='/static/images/listimg/2pp07.jpg'>"
+                    },
+                    {
+                        "aimg": "<img src='/static/images/listimg/1pp02.jpg'>"
+                    }
+                ]
+            },
+            {
+                "span": "屏幕尺寸：",
+                "spana": [
+                    {
+                        "aimg": "5.0英寸以下"
+                    },
+                    {
+                        "aimg": "5.0～5.49英寸"
+                    },
+                    {
+                        "aimg": "5.5～5.99英寸"
+                    },
+                    {
+                        "aimg": "6.0～6.24英寸"
+                    },
+                    {
+                        "aimg": "6.25-6.34英寸"
+                    },
+                    {
+                        "aimg": "6.35-6.44英寸"
+                    },
+                    {
+                        "aimg": "6.45-6.54英寸"
+                    },
+                    {
+                        "aimg": "6.45-6.54英寸"
+                    }
+                ]
+            },
+            {
+                "span": "CPU型号：",
+                "spana": [
+                    {
+                        "aimg": "骁龙660"
+                    },
+                    {
+                        "aimg": "骁龙675"
+                    },
+                    {
+                        "aimg": "骁龙685"
+                    },
+                    {
+                        "aimg": "骁龙671"
+                    },
+                    {
+                        "aimg": "骁龙712"
+                    },
+                    {
+                        "aimg": "骁龙730G"
+                    },
+                    {
+                        "aimg": "骁龙801(msm8974ac)"
+                    },
+                    {
+                        "aimg": "麒麟810"
+                    }
+                ]
+            },
+            {
+                "span": "操作系统：",
+                "spana": [
+                    {
+                        "aimg": "Android(安卓)"
+                    },
+                    {
+                        "aimg": "功能机"
+                    },
+                    {
+                        "aimg": "iOS(Apple)"
+                    },
+                    {
+                        "aimg": "其它OS"
+                    },
+                    {
+                        "aimg": "YunOS"
+                    },
+                    {
+                        "aimg": "Symbian(塞班)"
+                    },
+                    {
+                        "aimg": "Windows(微软)"
+                    },
+                    {
+                        "aimg": "其它OS"
+                    }
+                ]
+            }
+        ],
+        "contentMimg":[
+            {
+                "Mng":"/static/images/listimg/Dimg01.jpg",
+                "id":"103",
+                "minming":[
+                    {
+                        "mining":"/static/images/listimg/1min01.jpg"
+                    }
+                ],
+                "conmonye":"5399.00",
+                "contitle":"三星（SAMSUNG）Q6A 55英寸QLED量子点 4K超高清 物联IoT 人工智能  网络液晶",
+                "yxs":"4523",
+                "pj":"3958"
+            },
+            {
+                "Mng":"/static/images/listimg/Dimg02.jpg",
+                "id":"104",
+                "minming":[
+                    {
+                        "mining":"/static/images/listimg/2min01.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min04.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min03.jpg"
+                    }
+                ],
+                "conmonye":"2999.00",
+                "contitle":"小米巅峰24小时，爆款特惠开抢，更有【全新十代酷睿本】震撼首发【点击直达】",
+                "yxs":"4523",
+                "pj":"3958"
+            },
+            {
+                "Mng":"/static/images/listimg/Dimg03.jpg",
+                "id":"101",
+                "minming":[
+                    {
+                        "mining":"/static/images/listimg/2min01.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min04.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min03.jpg"
+                    }
+                ],
+                "conmonye":"1599",
+                "contitle":"【腾讯游戏深度定制，赠专属权益】骁龙855Plus，120Hz电竞屏，6000mAh大电池，UFS3.0，游戏侧握优化！更多精彩",
+                "yxs":"4523",
+                "pj":"3958"
+            },
+            {
+                "Mng":"/static/images/listimg/Dimg04.jpg",
+                "minming":[
+                    {
+                        "mining":"/static/images/listimg/2min01.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min04.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min03.jpg"
+                    }
+                ],
+                "conmonye":"1599",
+                "contitle":"【腾讯游戏深度定制，赠专属权益】骁龙855Plus，120Hz电竞屏，6000mAh大电池，UFS3.0，游戏侧握优化！更多精彩",
+                "yxs":"4523",
+                "pj":"3958"
+            },
+            {
+                "Mng":"/static/images/listimg/Dimg05.jpg",
+                "minming":[
+                    {
+                        "mining":"/static/images/listimg/2min01.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min04.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min03.jpg"
+                    }
+                ],
+                "conmonye":"1599",
+                "contitle":"【腾讯游戏深度定制，赠专属权益】骁龙855Plus，120Hz电竞屏，6000mAh大电池，UFS3.0，游戏侧握优化！更多精彩",
+                "yxs":"4523",
+                "pj":"3958"
+            },
+            {
+                "Mng":"/static/images/listimg/6.jpg",
+                "minming":[
+                    {
+                        "mining":"/static/images/listimg/2min01.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min04.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min03.jpg"
+                    }
+                ],
+                "conmonye":"1599",
+                "contitle":"【腾讯游戏深度定制，赠专属权益】骁龙855Plus，120Hz电竞屏，6000mAh大电池，UFS3.0，游戏侧握优化！更多精彩",
+                "yxs":"4523",
+                "pj":"3958"
+            },
+            {
+                "Mng":"/static/images/listimg/7.jpg",
+                "minming":[
+                    {
+                        "mining":"/static/images/listimg/2min01.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min04.jpg"
+                    },
+                    {
+                        "mining":"/static/images/listimg/2min03.jpg"
+                    }
+                ],
+                "conmonye":"1599",
+                "contitle":"【腾讯游戏深度定制，赠专属权益】骁龙855Plus，120Hz电竞屏，6000mAh大电池，UFS3.0，游戏侧握优化！更多精彩",
+                "yxs":"4523",
+                "pj":"3958"
+            }
+        ]
+    }
+]

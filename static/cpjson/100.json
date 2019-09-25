@@ -1,0 +1,83 @@
+[
+    {
+        "aid": "100",
+        "title01": "苹果7/8华为手机通用智能手表男女插卡通话初中学生电话手表触屏",
+        "title02": "独立插卡接打电话，支持移动联通卡.",
+        "money": "3300.00",
+        "img": [
+            {
+                "imgMin": "/static/images/img/100imgmin01.jpg"
+            },
+            {
+                "imgMin": "/static/images/img/100imgmin02.jpg"
+            },
+            {
+                "imgMin": "/static/images/img/100imgmin03.jpg"
+            },
+            {
+                "imgMin": "/static/images/img/100imgmin04.jpg"
+            }
+        ],
+        "selected": false,
+        "num":1,
+        "imgMax": "/static/images/img/100img.jpg",
+        "SPXQ": [
+            {
+                "li": "品牌名称：Microwear/微穿戴"
+            },
+            {
+                "li": "证书编号：2018011606039254"
+            },
+            {
+                "li": "证书状态：有效"
+            },
+            {
+                "li": "产品名称：北斗/GPS定位终端（带GSM功能）"
+            },
+            {
+                "li": "3C规格型号：A20、 A21、 A6、 A9、 A10、 A12、 A16、 A18、 A19、 T8、 T28..."
+            },
+            {
+                "li": "功能: 拍照 睡眠监测 计步"
+            },
+            {
+                "li": " A1黑色【不带上网功能】--移动版 A1银白【不带上网功能】--移动版 A2黑色【带WIFI上网功能】--移动联通版版 A2银黑【带WIFI上网功能】--移动联通版版 A3黑色【学生用移动联通电信版】 A3银粉【学生用移动联通电信版】"
+            },
+            {
+                "li": "电信设备进网许可证编号: 17-C807-173747"
+            },
+            {
+                "li": "生产企业: 深圳市叁陆伍物联科技有限公司"
+            },
+            {
+                "li": "摄像头像素: 20万像素"
+            }
+        ],
+        "spxqimg": [
+            {
+                "showimg": "/static/images/img/100imgshow01.jpg"
+            },
+            {
+                "showimg": "/static/images/img/100imgshow02.jpg"
+            },
+            {
+                "showimg": "/static/images/img/100imgshow03.jpg"
+            },
+            {
+                "showimg": "/static/images/img/100imgshow04.jpg"
+            },
+            {
+                "showimg": "/static/images/img/100imgshow05.jpg"
+            },
+            {
+                "showimg": "/static/images/img/100imgshow06.jpg"
+            },
+            {
+                "showimg": "/static/images/img/100imgshow07.jpg"
+            },
+            {
+                "showimg": "/static/images/img/100imgshow08.jpg"
+            }
+        ]
+    }
+]

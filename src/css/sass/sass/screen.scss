@@ -1,0 +1,400 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+// @import "compass/reset";
+// @import "compass/css3";
+
+$gutter: 30px;
+$column-count: 12;
+
+$container-sm-width: 750px;
+$container-md-width: 1170px;
+$container-lg-width: 1170px;
+
+$sr-sm-min: 768px;
+$sr-md-min: 1199px;
+$sr-lg-min: 1200px;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.container {
+  padding: {
+    left: $gutter/2;
+    right: $gutter/2;
+  }
+  margin: {
+    left: auto;
+    right: auto;
+  }
+
+  @media (min-width: $sr-sm-min) {
+    width: $container-sm-width;
+  }
+  @media (min-width: $sr-md-min) {
+    width: $container-md-width;
+  }
+  @media (min-width: $sr-lg-min) {
+    width: $container-lg-width;
+  }
+}
+
+.row {
+  margin: {
+    left: $gutter/2;
+    right: $gutter/2;
+  }
+}
+
+
+$col-name: col;
+$col-xs: xs;
+$col-sm: sm;
+$col-md: md;
+$col-lg: lg;
+
+%col-common {
+  position: relative;
+  min-height: 1px;
+  padding-right: $gutter/2;
+  padding-left: $gutter/2;
+}
+
+@mixin marck-col($col) {
+  @for $i from 1 through $column-count {
+    .#{$col-name}-#{$col}-#{$i} {
+      position: relative;
+      min-height: 1px;
+      padding-right: $gutter/2;
+      padding-left: $gutter/2;
+      width: percentage($i/$column-count);
+      float: left;
+    }
+  }
+}
+
+// @for $i from 1 through $column-count {
+//   .#{$col-name}-#{$col-xs}-#{$i} {
+//     @extend %col-common;
+//     width: percentage($i/$column-count);
+//   }
+// }
+
+@media (max-width: $sr-sm-min) {
+  @include marck-col($col-xs);
+
+  .nav {
+    width: 100%;
+    padding: 10px 0;
+    .nav-list {
+      display: none;
+    }
+    .nav-menu {
+      display: block;
+      float: right;
+      padding: 8px 5px;
+      position: relative;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-right: 15px;
+      span {
+        height: 2px;
+        width: 25px;
+        display: block;
+        background: #ccc;
+        border-radius: 10px;
+        & + span {
+          margin-top: 6px;
+        }
+      }
+    }
+    .nav-left {
+      position: fixed;
+      height: 100%;
+      top: 0;
+      padding-top: 10px;
+      width: 60%;
+      background: #fff;
+      left: -60%;
+      -webkit-transition: 1s;
+      transition: 1s;
+      & > li {
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+        .menu {
+          position: relative;
+          width: 100%;
+          text-align: center;
+          border-radius: 0;
+          -webkit-box-shadow: 0 -1px 7px #ccc inset;
+          box-shadow: 0 -1px 7px #ccc inset;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: $sr-sm-min) {
+  @include marck-col($col-sm);
+
+  .nav {
+    width: 100%;
+    padding: 10px 0;
+    .nav-list {
+      display: none;
+    }
+    .nav-menu {
+      display: block;
+      float: right;
+      padding: 8px 5px;
+      position: relative;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-right: 15px;
+      cursor: pointer;
+      span {
+        height: 2px;
+        width: 25px;
+        display: block;
+        background: #ccc;
+        border-radius: 10px;
+        & + span {
+          margin-top: 6px;
+        }
+      }
+    }
+    .nav-left {
+      position: fixed;
+      height: 100%;
+      top: 0;
+      padding-top: 10px;
+      width: 60%;
+      background: #fff;
+      left: -60%;
+      -webkit-transition: 1s;
+      transition: 1s;
+      & > li {
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+        .menu {
+          position: relative;
+          width: 100%;
+          text-align: center;
+          border-radius: 0;
+          -webkit-box-shadow: 0 -1px 7px #ccc inset;
+          box-shadow: 0 -1px 7px #ccc inset;
+        }
+      }
+    }
+  }
+}
+@media (min-width: $sr-md-min) {
+  @include marck-col($col-md);
+
+  .nav {
+    width: 100%;
+    padding: 10px 0;
+    .nav-list {
+      display: none;
+    }
+    .nav-menu {
+      display: block;
+      float: right;
+      padding: 8px 5px;
+      position: relative;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-right: 15px;
+      cursor: pointer;
+      span {
+        height: 2px;
+        width: 25px;
+        display: block;
+        background: #ccc;
+        border-radius: 10px;
+        & + span {
+          margin-top: 6px;
+        }
+      }
+    }
+    .nav-left {
+      position: fixed;
+      height: 100%;
+      top: 0;
+      padding-top: 10px;
+      width: 60%;
+      background: #fff;
+      left: -60%;
+      -webkit-transition: 1s;
+      transition: 1s;
+      & > li {
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+        .menu {
+          position: relative;
+          width: 100%;
+          text-align: center;
+          border-radius: 0;
+          -webkit-box-shadow: 0 -1px 7px #ccc inset;
+          box-shadow: 0 -1px 7px #ccc inset;
+        }
+      }
+    }
+  }
+}
+@media (min-width: $sr-lg-min) {
+  @include marck-col($col-lg);
+  .nav {
+    width: 100%;
+    padding: 10px 0;
+    .nav-logo {
+      width: auto;
+      height: 100%;
+      margin-left: 20px;
+      float: left;
+    }
+    .nav-menu {
+      display: none;
+      z-index: 999;
+      background: #fff;
+      cursor: pointer;
+    }
+    .nav-list {
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+      // float: right;
+      // margin-right: 20px;
+      width: 35%;
+      margin-right: 7%;
+      overflow: hidden;
+      float: right;
+      display: block;
+      & > li {
+        position: relative;
+        list-style: none;
+        float: left;
+        text-align: center;
+        .active {
+          color: #fff;
+          background: #094fb7;
+        }
+        .menu {
+          min-width: 100px;
+          background: #fff;
+          -webkit-box-shadow: 0 2px 10px #ccc;
+          box-shadow: 0 2px 10px #ccc;
+          position: absolute;
+          border-radius: 5px;
+          white-space: nowrap;
+          left: 0;
+          height: 0;
+          overflow: hidden;
+          -webkit-transition: 1s;
+          transition: 1s;
+        }
+      }
+    }
+  }
+}
+
+.top-gg {
+  width: 100%;
+  position: relative;
+  background: #fe0060;
+  .gb {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    background: #e30055;
+    top: 15px;
+    right: 100px;
+    cursor: pointer;
+    text-align: center;
+  }
+}
+.ztl {
+  width: 100%;
+  background: #eeeeee;
+  .nav {
+    overflow: hidden;
+    .nav-list {
+      line-height: 32px;
+      li {
+        display: block;
+        width: 16%;
+        float: left;
+        overflow: hidden;
+        text-align: center;
+        border-left: 1px solid #ddd;
+        cursor: pointer;
+
+        &:nth-child(5) {
+          width: 20%;
+        }
+        &:nth-child(1) {
+          width: 25%;
+          border: none;
+        }
+        &:hover {
+          color: #52a0e5;
+        }
+      }
+    }
+    .nav-ul-l {
+      display: block;
+      width: auto;
+      margin-left: 7%;
+      overflow: hidden;
+      float: left;
+      line-height: 32px;
+      .hy {
+        display: block;
+        width: auto;
+        float: left;
+        text-align: center;
+        color: #000;
+        & p a {
+          font-size: 17px;
+          color: #000;
+        }
+      }
+      li {
+        display: block;
+        width: auto;
+        float: left;
+        text-align: center;
+        cursor: pointer;
+        margin: 0 3px;
+        a {
+          font-size: 12px;
+          color: #52a0e5;
+        }
+      }
+    }
+  }
+}
+
+.ssy {
+  overflow: hidden;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  .ssy-logo {
+    p {
+      font-size: 39px;
+      font-family: cursive;
+      span {
+        display: block;
+        font-size: 20px;
+        font-family: monospace;
+        font-weight: bold;
+      }
+    }
+  }
+}

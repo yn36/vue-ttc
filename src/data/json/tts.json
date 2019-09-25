@@ -1,0 +1,429 @@
+[
+    {
+        "top": [
+            {
+                "id": "tts",
+                "title": "淘特色",
+                "main": [
+                    {
+                        "t1": [
+                            {
+                                "aid": "a01",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "a02",
+                                "tt1": "【开学大放价】下单抽2019元红包，全国七仓速发，套餐版送蓝牙耳机~19款7.9英寸mini5特惠活动中·点击抢购",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img7.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "a03",
+                                "tt1": "科大讯飞学习机X1 Pro 小学和初高中家教机 10.1英寸2.5D高清润眼屏 8重护眼 AI个性化精准学习 学生平板电脑",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img2.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "103",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img6.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "104",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img9.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "105",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img6.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "106",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img7.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "top": [
+            {
+                "id": "xpss",
+                "title": "新品上市",
+                "main": [
+                    {
+                        "t1": [
+                            {
+                                "img": "/static/images/img/img8.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "107",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img9.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "108",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img10.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "109",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "99",
+                                "img": "/static/images/img/img11.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "110",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img12.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "111",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img13.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "112",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img14.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "top": [
+            {
+                "id": "rxcp",
+                "title": "热销产品",
+                "main": [
+                    {
+                        "t1": [
+                            {
+                                "aid": "113",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img15.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "114",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img9.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "115",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img10.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "116",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "99",
+                                "img": "/static/images/img/img11.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "117",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img12.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "118",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img13.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "119",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img14.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "top": [
+            {
+                "id": "jpcj",
+                "title": "精品推荐",
+                "main": [
+                    {
+                        "t1": [
+                            {
+                                "img": "/static/images/img/img22.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "120",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img9.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "121",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img10.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "122",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "99",
+                                "img": "/static/images/img/img11.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "123",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img12.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "124",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img13.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "125",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img14.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "top": [
+            {
+                "id": "shfw",
+                "title": "生活服务",
+                "main": [
+                    {
+                        "t1": [
+                            {
+                                "aid": "126",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img32.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "127",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img36.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "128",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img9.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "129",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "99",
+                                "img": "/static/images/img/img35.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "130",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img36.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "131",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img37.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "t1": [
+                            {
+                                "aid": "132",
+                                "tt1": "苹果WATCH手表 智能穿戴 智能手表 Apple Watch",
+                                "tt2": "2658.",
+                                "tt3": "00",
+                                "img": "/static/images/img/img14.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

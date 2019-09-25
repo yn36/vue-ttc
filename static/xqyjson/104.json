@@ -1,0 +1,114 @@
+[
+    {
+        "aid": "104",
+        "title01": "小米电视4A 65英寸 4K超高清HDR 蓝牙语音遥控 2GB+8GB人工智能网络液晶平板电视L65M5-AZ/L65M5-AD/L65M5-5A",
+        "title02": "小米巅峰24小时，爆款特惠开抢，更有【全新十代酷睿本】震撼首发",
+        "money": "2999.00",
+        "tmp":[
+            {
+                "kk":"电视",
+                "sur":"/list/l2"
+            },
+            {
+                "kk":"小米电视4A",
+                "sur":"/content/104"
+            }
+        ],
+        "img": [
+            {
+                "imgMin": "/static/images/xqy/104/img01.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/104/img02.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/104/img03.jpg"
+            }
+        ],
+        "selected": false,
+        "banben": [
+            {
+                "xzbb": "选择版本：",
+                "nr": [
+                    {
+                        "bt": "小米壁画电视 65英寸"
+                    },
+                    {
+                        "bt": "小米电视4A 65英寸"
+                    },
+                    {
+                        "bt": "小米电视4S 65英寸 PRO版"
+                    }
+                ]
+            }
+        ],
+        "num": 1,
+        "imgMax": "/static/images/xqy/104/img01.jpg",
+        "SPXQ": [
+            {
+                "li": "商品名称：小米小米电视4A 65英寸 标准版"
+            },
+            {
+                "li": "商品编号：100004883122"
+            },
+            {
+                "li": "商品毛重：24.3kg"
+            },
+            {
+                "li": "商品产地：中国大陆"
+            },
+            {
+                "li": "观看距离：2.5m-3m（46-55英寸）"
+            },
+            {
+                "li": "用户优选：京品电视"
+            },
+            {
+                "li": "分辨率：4k超高清（3840×2160）"
+            },
+            {
+                "li": "电视类型：人工智能，4K超清，量子点"
+            },
+            {
+                "li": "能效等级：二级能效"
+            },
+            {
+                "li": "屏幕尺寸：55英寸"
+            },
+            {
+                "li": "选购指数：10.0-8.0"
+            }
+        ],
+        "spxqimg": [
+            {
+                "showimg": "/static/images/xqy/104/imgshow01.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/104/imgshow02.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/104/imgshow03.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/104/imgshow04.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/104/imgshow05.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/104/imgshow06.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/104/imgshow07.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/104/imgshow08.jpg"
+            }
+        ],
+        "sp":[
+            {
+                "mp4": "/static/images/xqy/104/v.f30.mp4"
+            }
+        ]
+    }
+]

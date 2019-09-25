@@ -1,0 +1,141 @@
+[
+    {
+        "aid": "102",
+        "title01": "Apple 苹果 iPhone Xr 手机 红色 全网通 128G",
+        "title02": "【原封国行正品】",
+        "money": "5168.00",
+        "tmp":[
+            {
+                "kk":"全部手机",
+                "sur":"/list/l1"
+            },
+            {
+                "kk":"iPhone Xr",
+                "sur":"/content/102"
+            }
+        ],
+        "img": [
+            {
+                "imgMin": "/static/images/xqy/102/img01.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/102/img02.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/102/img03.jpg"
+            }
+        ],
+        "selected": false,
+        "banben": [
+            {
+                "xzbb": "选择版本：",
+                "nr": [
+                    {
+                        "bt": "全网通 128G"
+                    },
+                    {
+                        "bt": "全网通 64G"
+                    },
+                    {
+                        "bt": "全网通 256G"
+                    }
+                ]
+            },
+            {
+                "xzbb": "选择颜色：",
+                "nr": [
+                    {
+                        "bt": "黑色"
+                    },
+                    {
+                        "bt": "白色"
+                    },
+                    {
+                        "bt": "蓝色"
+                    },
+                    {
+                        "bt": "黄色"
+                    },
+                    {
+                        "bt": "珊瑚色"
+                    },
+                    {
+                        "bt": "红色"
+                    }
+                ]
+            }
+        ],
+        "num": 1,
+        "imgMax": "/static/images/xqy/102/img01.jpg",
+        "SPXQ": [
+            {
+                "li": "商品名称：AppleiPhone XR"
+            },
+            {
+                "li": "商品编号：32943442167"
+            },
+            {
+                "li": "商品毛重：380.00g"
+            },
+            {
+                "li": "商品产地：中国大陆"
+            },
+            {
+                "li": "存储卡：不支持存储卡"
+            },
+            {
+                "li": "摄像头数量：后置单摄"
+            },
+            {
+                "li": "前摄主摄像素：500万像素"
+            },
+            {
+                "li": "4G LTE网络特性：其他"
+            },
+            {
+                "li": "屏幕前摄组合：其他"
+            },
+            {
+                "li": "CPU型号：其他"
+            },
+            {
+                "li": "后摄主摄像素：1200万像素"
+            },
+            {
+                "li": "机身存储：其它存储"
+            },
+            {
+                "li": "屏幕比例：其它屏幕比例"
+            },
+            {
+                "li": "操作系统：iOS(Apple)"
+            }
+        ],
+        "spxqimg": [
+            {
+                "showimg": "/static/images/xqy/102/imgshow01.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/102/imgshow02.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/102/imgshow03.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/102/imgshow04.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/102/imgshow05.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/102/imgshow06.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/102/imgshow07.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/102/imgshow08.jpg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "aid": "a01",
+        "title01": "Apple Watch Series 4智能手表（GPS+蜂窝款 44毫米深空黑色不锈钢表壳 米兰尼斯表带 MTX32CH/A) ",
+        "title02": "获得AppleCare+全方位服务计划，原厂延保售后无忧。",
+        "money": "3300.00",
+        "tmp":[
+            {
+                "kk":"Apple Watch",
+                "sur":"/content/a01"
+            }
+        ],
+        "img": [
+            {
+                "imgMin": "/static/images/xqy/a01/100img01.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/a01/100img02.jpg"
+            }
+        ],
+        "selected": false,
+        "banben": [
+            {
+                "xzbb": "选择版本：",
+                "nr": [
+                    {
+                        "bt": "公开版"
+                    },
+                    {
+                        "bt": "官方AppleCare+版"
+                    }
+                ]
+            },
+            {
+                "xzbb": "选择尺寸：",
+                "nr": [
+                    {
+                        "bt": "40毫米（适合130–200毫米腕围）"
+                    },
+                    {
+                        "bt": "44毫米（适合140–210毫米腕围）"
+                    }
+                ]
+            }
+        ],
+        "num": 1,
+        "imgMax": "/static/images/xqy/a01/100img01.jpg",
+        "SPXQ": [
+            {
+                "li": "商品名称：AppleApple Watch"
+            },
+            {
+                "li": "商品编号：100000401887"
+            },
+            {
+                "li": "商品毛重：0.52kg"
+            },
+            {
+                "li": "商品产地：中国大陆"
+            },
+            {
+                "li": "机身厚度：10-12mm"
+            },
+            {
+                "li": "屏幕大小：40mm以上"
+            },
+            {
+                "li": "屏幕显示：彩色触屏"
+            },
+            {
+                "li": "防水等级：50米防水"
+            },
+            {
+                "li": "续航时间：3天以下"
+            },
+            {
+                "li": "通话功能：蓝牙通话"
+            },
+            {
+                "li": "运动模式识别：10-15种"
+            },
+            {
+                "li": "功能：GPS定位，NFC支付，久坐提醒，气压高度测量，消息提醒，心率监测，自定义表盘，3G通话/4G通话，短信收发，来电提醒，邮件提示，音乐播放"
+            },
+            {
+                "li": "适用人群：男士，女士，老人，儿童，通用"
+            },
+            {
+                "li": "腕带材质：金属"
+            }
+        ],
+        "spxqimg": [
+            {
+                "showimg": "/static/images/xqy/a01/100imgshow01.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/a01/100imgshow02.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/a01/100imgshow03.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/a01/100imgshow04.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/a01/100imgshow05.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/a01/100imgshow06.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/a01/100imgshow07.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/a01/100imgshow08.jpg"
+            }
+        ],
+        "sp":[
+            {
+                "mp4": "/static/images/xqy/a01/v.f30.mp4"
+            }
+        ]
+    }
+]

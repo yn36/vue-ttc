@@ -1,0 +1,70 @@
+[
+    {
+        "aid": "102",
+        "title01": "科大讯飞学习机X1 Pro 小学和初高中家教机 10.1英寸2.5D高清润眼屏 8重护眼 AI个性化精准学习 学生平板电脑",
+        "title02": "【买送好礼】买就送原装保护膜+保护套（随货发出）",
+        "money": "3399.00",
+        "img": [
+            {
+                "imgMin": "/static/images/img/102imgmin01.jpg"
+            },
+            {
+                "imgMin": "/static/images/img/102imgmin02.jpg"
+            },
+            {
+                "imgMin": "/static/images/img/102imgmin03.jpg"
+            },
+            {
+                "imgMin": "/static/images/img/102imgmin04.jpg"
+            }
+        ],
+        "selected": false,
+        "num":1,
+        "imgMax": "/static/images/img/102img.jpg",
+        "SPXQ": [
+            {
+                "li":"品牌名称：Microwear/微穿戴"
+            },
+            {
+                "li":"证书编号：2018011606039254"
+            },
+            {
+                "li":"证书状态：有效"
+            },
+            {
+                "li":"产品名称：北斗/GPS定位终端（带GSM功能）"
+            },
+            {
+                "li":"3C规格型号：A20、 A21、 A6、 A9、 A10、 A12、 A16、 A18、 A19、 T8、 T28..."
+            },
+            {
+                "li":"功能: 拍照 睡眠监测 计步"
+            },
+            {
+                "li":" A1黑色【不带上网功能】--移动版 A1银白【不带上网功能】--移动版 A2黑色【带WIFI上网功能】--移动联通版版 A2银黑【带WIFI上网功能】--移动联通版版 A3黑色【学生用移动联通电信版】 A3银粉【学生用移动联通电信版】"
+            },
+            {
+                "li":"电信设备进网许可证编号: 17-C807-173747"
+            },
+            {
+                "li":"生产企业: 深圳市叁陆伍物联科技有限公司"
+            },
+            {
+                "li":"摄像头像素: 20万像素"
+            }
+            
+        ],
+        "spxqimg":[
+            {"showimg":"/static/images/img/102imgshow01.jpg"},
+            {"showimg":"/static/images/img/102imgshow02.jpg"},
+            {"showimg":"/static/images/img/102imgshow03.jpg"},
+            {"showimg":"/static/images/img/102imgshow04.jpg"},
+            {"showimg":"/static/images/img/102imgshow05.jpg"},
+            {"showimg":"/static/images/img/102imgshow06.jpg"},
+            {"showimg":"/static/images/img/102imgshow07.jpg"},
+            {"showimg":"/static/images/img/102imgshow08.jpg"},
+            {"showimg":"/static/images/img/102imgshow09.jpg"},
+            {"showimg":"/static/images/img/102imgshow10.jpg"}
+        ]
+    }
+]

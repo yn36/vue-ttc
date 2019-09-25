@@ -1,0 +1,138 @@
+[
+    {
+        "aid": "100",
+        "title01": "荣耀V20 游戏手机 麒麟980芯片 魅眼全视屏 4800万深感相机 6GB+128GB 幻影红 移动联通电信4G全面屏手机",
+        "title02": "限时优惠2099！麒麟980芯片，魅眼全视屏，4800万AI超清摄影！荣耀爆品特惠，选品质，购荣耀~",
+        "money": "3300.00",
+        "tmp":[
+            {
+                "kk":"全部手机",
+                "sur":"/list/l1"
+            },
+            {
+                "kk":"荣耀V20",
+                "sur":"/content/100"
+            }
+        ],
+        "img": [
+            {
+                "imgMin": "/static/images/xqy/100/100img01.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/100/100img02.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/100/100img03.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/100/100img04.jpg"
+            },
+            {
+                "imgMin": "/static/images/xqy/100/100img05.jpg"
+            }
+        ],
+        "selected": false,
+        "banben": [
+            {
+                "xzbb": "选择版本：",
+                "nr": [
+                    {
+                        "bt": "全网通（6GB 128GB）"
+                    },
+                    {
+                        "bt": "全网通（8GB 256GB）"
+                    },
+                    {
+                        "bt": "全网通（8GB 128GB）"
+                    }
+                ]
+            },
+            {
+                "xzbb": "套　　装：",
+                "nr": [
+                    {
+                        "bt": "优惠套装1"
+                    },
+                    {
+                        "bt": "优惠套装2"
+                    },
+                    {
+                        "bt": "优惠套装3"
+                    }
+                ]
+            }
+        ],
+        "num": 1,
+        "imgMax": "/static/images/xqy/100/100img01.jpg",
+        "SPXQ": [
+            {
+                "li": "商品名称：华为荣耀V20"
+            },
+            {
+                "li": "商品编号：100004772462"
+            },
+            {
+                "li": "商品毛重：180.00g"
+            },
+            {
+                "li": "商品产地：中国大陆"
+            },
+            {
+                "li": "存储卡：不支持存储卡"
+            },
+            {
+                "li": "电池容量：4000mAh-4249mAh"
+            },
+            {
+                "li": "摄像头数量：后置双摄"
+            },
+            {
+                "li": "前摄主摄像素：2500万像素"
+            },
+            {
+                "li": "CPU型号：麒麟980"
+            },
+            {
+                "li": "游戏性能：发烧级"
+            },
+            {
+                "li": "机身颜色：红色"
+            },
+            {
+                "li": "屏幕比例：其它屏幕比例"
+            },
+            {
+                "li": "运行内存：6GB"
+            },
+            {
+                "li": "操作系统：Android(安卓)"
+            }
+        ],
+        "spxqimg": [
+            {
+                "showimg": "/static/images/xqy/100/100imgshow01.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/100/100imgshow02.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/100/100imgshow03.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/100/100imgshow04.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/100/100imgshow05.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/100/100imgshow06.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/100/100imgshow07.jpg"
+            },
+            {
+                "showimg": "/static/images/xqy/100/100imgshow08.jpg"
+            }
+        ]
+    }
+]
