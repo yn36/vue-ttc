@@ -48,13 +48,13 @@ npm run dev
 # 部分截图
 
 ### 首页和分类
-<img src="/mdimg/wechatIMG11.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/WechatIMG11.png">
 
 ### 商品列表页
-<img src="/mdimg/wechatIMG13.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/wechatIMG13.png">
 
 ### 商品详情页
-<img src="/mdimg/wechatIMG14.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/wechatIMG14.png">
 
 ### 购物车页
-<img src="/mdimg/wechatIMG12.png">
+<img src="https://github.com/yn36/ttc/blob/master/mdimg/wechatIMG12.png">
